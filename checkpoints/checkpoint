@@ -1,0 +1,6 @@
+model_checkpoint_path: "VideoGAN_1_99.ckpt"
+all_model_checkpoint_paths: "VideoGAN_1_95.ckpt"
+all_model_checkpoint_paths: "VideoGAN_1_96.ckpt"
+all_model_checkpoint_paths: "VideoGAN_1_97.ckpt"
+all_model_checkpoint_paths: "VideoGAN_1_98.ckpt"
+all_model_checkpoint_paths: "VideoGAN_1_99.ckpt"
