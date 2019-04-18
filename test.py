@@ -1,8 +1,3 @@
-"""
-Author: Vignesh Gokul
-Code structure inspired from https://github.com/carpedm20/DCGAN-tensorflow
-
-"""
 import os
 import tensorflow as tf
 from tkinter import *
